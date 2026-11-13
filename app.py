@@ -21,7 +21,7 @@ if __name__=="__main__":
   print("Student Calculator Application")
   print("Addition :",add(20,20))
   print("Subtraction:",subtract(20,10))
-  print("Multiplication:",multiply(5,4))
+  print("Multiplication:",multiply(6,4))
   
   print("\n Executing Automated Tests...\n")
   unittest.main(argv=['first-arg-is-ignored'],exit=False)
