@@ -10,7 +10,7 @@ def multiply(a,b):
 #Automated test cases
 class TestCalculator(unittest.TestCase):
   def test_add(self):
-    self.assertEqual(add(20,20),40)
+    self.assertEqual(add(21,19),40)
   def test_subtract(self):
     self.assertEqual(subtract(20,10),10)
   def test_multiply(self):
