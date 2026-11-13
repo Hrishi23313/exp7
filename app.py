@@ -17,7 +17,7 @@ class TestCalculator(unittest.TestCase):
     self.assertEqual(multiply(9,4),36)
 
 #Main application
-if __name__="__main__":
+if __name__=="__main__":
 print("Student Calculator Application")
 print("Addition :",add(20,20))
 print("Subtraction:",subtract(20,10))
